@@ -1,0 +1,6 @@
+graft src/pssa2023
+graft docs
+include *.rst
+include *.md
+include *.cfg
+global-exclude *.pyc

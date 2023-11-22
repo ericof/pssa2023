@@ -1,0 +1,7 @@
+---
+project_folders:
+  # Path to store pssa2023-ericof.tangrama.com.br postgres data
+  - path: "/srv/pssa2023/data"
+    owner: 999
+    group: 999
+    mode: "0750"

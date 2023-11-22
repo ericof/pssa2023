@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layers>
+  <layer interface="pssa2023.interfaces.IPssa2023Layer"
+         name="pssa2023"
+  />
+</layers>
